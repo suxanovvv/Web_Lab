@@ -1,0 +1,182 @@
+html {
+    font-family: Roboto, sans-serif;
+}
+
+* {
+    color: #333333;
+}
+
+h1 {
+    color: #2f80ed;
+    margin-bottom: 0.25em;
+}
+
+h2 {
+    color: #333333;
+    font-size: 1em;
+    margin-top: 0;
+    margin-bottom: 1em;
+}
+
+a {
+    color: #333333;
+}
+
+h3 {
+    color: #2f80ed;
+}
+
+.contact {
+    display: flex;
+}
+
+.experience {
+    display: flex;
+}
+
+.experience__date {
+    display: flex;
+    min-width: 165px;
+    margin-bottom: 1em;
+}
+
+.experience__name {
+    font-weight: bold;
+}
+.skills {
+    display: flex;
+}
+
+.skills__lang {
+    display: flex;
+    min-width: 165px;
+    margin-bottom: 1em;
+}
+
+.skills__hobbies {
+    display: flex;
+    min-width: 165px;
+    margin-bottom: 1em;
+}
+
+.clock {
+    margin-right: 250px;
+    margin-top: -230px;
+}
+
+.sex {
+    margin-right: 250px;
+}
+
+.city {
+    margin-right: 250px;
+}
+
+
+.portrait {
+    margin-right: 250px;
+    margin-top: -670px;
+}
+
+.menu {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.bottom-left {
+    position: absolute;
+    bottom: 6px;
+    left: 16px;
+}
+
+.centered {
+    position: absolute;
+    bottom: -2px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+}
+
+.bottom-right {
+    position: absolute;
+    bottom: 6px;
+    right: 16px;
+}
+
+.text {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0em;
+    margin-inline-end: 0em;
+    border: 10px #2f80ed double;
+    padding: 15px;
+  }
+
+.text1 {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0em;
+    margin-inline-end: 0em;
+    border: 10px #2f80ed double;
+    padding: 15px;
+}
+
+.About {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0em;
+    margin-inline-end: 0em;
+    border: 10px #2f80ed double;
+    padding: 15px;
+}
+
+.table {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0em;
+    margin-inline-end: 0em;
+    border: 10px #2f80ed double;
+    padding: 15px;
+}
+
+.left_pic {
+    float: left;
+    padding-right: 20px;
+    margin-left: -100px;
+    margin-top: -90px;
+}
+
+.right_pic {
+    float: right;
+    padding-left: 13px;
+    margin-right: -110px;
+    margin-top: -95px;
+}
+
+.left1_pic {
+    float: left;
+    padding-right: 20px;
+    margin-left: -100px;
+    margin-top: -93px;
+}
+
+
+.text_work {
+    font-weight: bold;
+}
+
+.text_work {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0em;
+    margin-inline-end: 0em;
+    border: 10px #2f80ed double;
+    padding: 115px;
+    background-color: #2f80ed;
+}
